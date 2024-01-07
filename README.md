@@ -1,16 +1,10 @@
-# flutter_grocery_demo
+# GroceryStoreApp
 
-A new Flutter project.
+A flutter project made for,
+Google Solution challenge'24 - Android Development with flutter
 
-## Getting Started
+## [Dart cheatsheet](https://docs.google.com/document/d/1BPaM3eLRBj_q7OV5Lx0YpFy18tksnCvCfmKIwcbl3_k/edit?usp=sharing)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Made by
+- [Jess John - App Expert@GDSC-DBIT](jessjohn.netlify.app)
+- [Melwin Lewis - App Expert@GDSC-DBIT](https://www.linkedin.com/in/melwin-lewis-6a91a4199/)
